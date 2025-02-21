@@ -128,6 +128,8 @@ pip install -r requirements.txt
 
 **Deploy through Action's tab - workflow**
 
-Path : `steps/09_process_incrementally.sql`
-
 ![Step 10](/sfguide-data-engineering-with-snowpark-python/screanshots_lab_1/step_10_deploy.png)
+
+### Snowflake Structure
+
+![DB](/sfguide-data-engineering-with-snowpark-python/screanshots_lab_1/snowflake_image.png)
